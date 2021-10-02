@@ -10,6 +10,26 @@ system, this module is mostly system-agnostic, with the exception of Actors (a m
 Detailed descriptions of the actors has been provided in journal entries to facilitate
 conversion to other game systems.
 
+# Maps
+
+The original maps from this work have been used as inspiration, and new maps have been
+designed specifically to meet the requirements of the VTT environment.  The following
+maps are part of this module.
+
+## General Area
+
+Map of General Area around Three Brothers' Barrow
+
+<img src="assets/scenes/tbb-area.webp" alt="Three Brothers' Barrow Area" width="600"/>
+
+## Cave
+
+<img src="assets/scenes/tbb-cave.webp" alt="Cave" width="600"/>
+
+## Tomb
+
+<img src="assets/scenes/tbb-tomb.webp" alt="Tomb" width="600"/>
+
 # Credits
 
 This module is made possible by the hard work of HârnWorld fans,
