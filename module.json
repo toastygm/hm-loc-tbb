@@ -4,7 +4,7 @@
   "description": "A ready-made Jarin barrow tomb for heroes to explore",
   "version": "1.0.1",
   "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion": "9",
+  "compatibleCoreVersion": "0.8.9",
   "bugs": "https://github.com/toastygm/hm-loc-tbb/issues",
   "license": "LICENSE",
   "readme": "README.md",

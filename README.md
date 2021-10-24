@@ -1,4 +1,7 @@
 # HârnWorld Location Module: Three Brothers Barrow
+[![Version (latest)](https://img.shields.io/github/v/release/toastygm/hm-loc-tbb)](https://github.com/toastygm/hm-loc-tbb/releases/latest)
+[![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fhm-loc-tbb&colorB=4aa94a)](https://forge-vtt.com/bazaar#package=hm-loc-tbb)
+[![GitHub downloads (latest)](https://img.shields.io/badge/dynamic/json?label=Downloads@latest&query=assets[?(@.name.includes('zip'))].download_count&url=https://api.github.com/repos/toastygm/hm-loc-tbb/releases/latest&color=green)](https://github.com/toastygm/hm-loc-tbb/releases/latest)
 
 Three Brothers Barrow is a "Location Module" for the Foundry VTT system. It is designed to provide
 a ready-made Jarin barrow tomb for heroes to explore, along with several adventure hooks. 
@@ -44,8 +47,7 @@ at the HârnWorld fan site [Lythia.com](https://www.lythia.com/).
 
 **Adapted to Foundry VTT:** Tom Rodriguez
 
+Illustrations by Richard Luschek; visit his Patreon page at https://www.patreon.com/LuschekII.
+
 This module is "[Fanon](https://www.lythia.com/about/publishing-fan-written-material/)",
 a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
-
-Some assets used to create the maps in this module are from
-[Forgotton Adventures](https://www.forgotten-adventures.net/).
