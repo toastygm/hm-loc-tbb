@@ -27,9 +27,7 @@
       {
         "id": "scene-packer",
         "type": "module",
-        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
-  "minimumCoreVersion": "10",
-        "compatibility": {}
+        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json"
       }
     ]
   },
@@ -39,22 +37,19 @@
       "name": "actors",
       "path": "packs/actors.db",
       "system": "hm3",
-      "type": "Actor",
-      "flags": {}
+      "type": "Actor"
     },
     {
       "label": "Three Brothers Barrow Scenes",
       "name": "scenes",
       "path": "packs/scenes.db",
-      "type": "Scene",
-      "flags": {}
+      "type": "Scene"
     },
     {
       "label": "Three Brothers Barrow Journals",
       "name": "journals",
       "path": "packs/journals.db",
-      "type": "JournalEntry",
-      "flags": {}
+      "type": "JournalEntry"
     }
   ],
   "url": "https://github.com/toastygm/hm-loc-tbb/",
