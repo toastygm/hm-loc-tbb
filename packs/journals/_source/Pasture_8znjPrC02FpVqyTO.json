@@ -1,0 +1,103 @@
+{
+  "name": "Pasture",
+  "pages": [
+    {
+      "name": "[1] The Pasture",
+      "type": "text",
+      "text": {
+        "content": "<p>Three Brothers Barrow is located in an area of hilly pastures. The GM can locate it on any civilized manor that is suitable for raising sheep. Ideally, the pasture should be a short distance from the village and manor house, near enough that help can be summoned if needed but too far to simply shout for it.</p>\n<p>The pasture can be reached by a local road or trail, but to reach the site of the barrow itself involves trekking several hundred yards up a slope. Because of the recent rains, the conditions will be wet and mud may be a hindrance in places. The wet, muddy conditions may justify one or more tests of Agility if PCs are moving quickly, such as if trying to keep up with an anxious sheepdog.</p>\n<p>Visibility in the pasture may be limited by the weather conditions. On a clear day, however, the two hilltops offer a good vantage point to see much of the manor lands, especially to the southwest of the barrow.</p>",
+        "format": 1
+      },
+      "_id": "8xJt0GJi6RJMgvEc",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!8znjPrC02FpVqyTO.8xJt0GJi6RJMgvEc"
+    },
+    {
+      "name": "[2] Murrie’s Cave",
+      "type": "text",
+      "text": {
+        "content": "<p>The only access to the cave is via a small sinkhole that has opened up during the recent heavy rains. The opening was initially fairly small, but unstable. When one of the ewes became stuck in the opening and Murrie weight caused the saturated soil to collapse, expanding the opening to its present size. Murrie, the ewe, and a mass of mud and loose stone were dropped into the cavern below. Any PCs entering the cave to search for the missing shepherd will be the first humans to explore it.</p>",
+        "format": 1
+      },
+      "_id": "CcP6q2XwiwDPCDNn",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!8znjPrC02FpVqyTO.CcP6q2XwiwDPCDNn"
+    },
+    {
+      "name": "[3] Barrow Entrance",
+      "type": "text",
+      "text": {
+        "content": "<p>The surface entrance to Three Brothers Barrow is depicted on the GM local map above. However, when first explored, this remains concealed under a layer of dirt and grass as a part of the hillside.</p>\n<p>See @UUID[JournalEntry.1fTiAKpdbva89nnX.JournalEntryPage.b3Gle07yEim9Q7GZ]{Note on the Alignment of the Tomb}.</p>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "N1x7a0e5B2slOVzX",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!8znjPrC02FpVqyTO.N1x7a0e5B2slOVzX"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659206231066,
+    "modifiedTime": 1659206231066,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "8znjPrC02FpVqyTO",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!8znjPrC02FpVqyTO"
+}

@@ -1,0 +1,194 @@
+{
+  "_id": "bcrtV55Yoef8MDVk",
+  "name": "The Pasture",
+  "navigation": false,
+  "navOrder": 0,
+  "navName": "",
+  "foreground": null,
+  "thumb": "worlds/conv/assets/scenes/bcrtV55Yoef8MDVk-thumb.webp",
+  "width": 6920,
+  "height": 4406,
+  "padding": 0.05,
+  "initial": {},
+  "backgroundColor": "#999999",
+  "grid": {
+    "size": 100,
+    "type": 0,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 25,
+    "units": "ft"
+  },
+  "tokenVision": false,
+  "fogExploration": false,
+  "fogReset": 1635087280433,
+  "globalLight": true,
+  "globalLightThreshold": null,
+  "darkness": 0,
+  "drawings": [],
+  "tokens": [],
+  "lights": [],
+  "notes": [
+    {
+      "_id": "ZmISFAclzCwiy8eS",
+      "entryId": "8znjPrC02FpVqyTO",
+      "x": 4796,
+      "y": 2528,
+      "iconSize": 75,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "1",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-tbb/assets/journal-icon-numbers/91f7bef1_1.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "8xJt0GJi6RJMgvEc",
+      "text": "[1] The Pasture",
+      "global": false,
+      "_key": "!scenes.notes!bcrtV55Yoef8MDVk.ZmISFAclzCwiy8eS"
+    },
+    {
+      "_id": "2Fbo276l4WxUbbzz",
+      "entryId": "8znjPrC02FpVqyTO",
+      "x": 2202,
+      "y": 1577,
+      "iconSize": 75,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "2",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-tbb/assets/journal-icon-numbers/7aef8d5a_2.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "CcP6q2XwiwDPCDNn",
+      "text": "[2] Murrie’s Cave",
+      "global": false,
+      "_key": "!scenes.notes!bcrtV55Yoef8MDVk.2Fbo276l4WxUbbzz"
+    },
+    {
+      "_id": "0Gk84jCTIVM8fL8E",
+      "entryId": "8znjPrC02FpVqyTO",
+      "x": 1316,
+      "y": 1763,
+      "iconSize": 75,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "3",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-tbb/assets/journal-icon-numbers/b9a898f7_3.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "N1x7a0e5B2slOVzX",
+      "text": "[3] Barrow Entrance",
+      "global": false,
+      "_key": "!scenes.notes!bcrtV55Yoef8MDVk.0Gk84jCTIVM8fL8E"
+    }
+  ],
+  "sounds": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": "T4KUpccfMp00LHDK",
+  "weather": "",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.hm-loc-tbb.scenes.bcrtV55Yoef8MDVk"
+    },
+    "hm-loc-tbb": {
+      "imported": "1.0.1"
+    },
+    "scene-packer": {
+      "source-module": "hm-loc-tbb",
+      "packed-with-version": "2.3.17",
+      "sourceId": "Scene.42aWztHZYHjeQF0A",
+      "hash": "9ce28145229039c2cf61c0d358d90241db8b4484"
+    },
+    "cf": {
+      "id": null,
+      "path": "Three Brothers Barrow",
+      "color": "#000000"
+    }
+  },
+  "background": {
+    "src": "modules/hm-loc-tbb/assets/scenes/tbb-area.webp",
+    "offsetX": 0,
+    "offsetY": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "rotation": 0,
+    "tint": null
+  },
+  "foregroundElevation": null,
+  "fogOverlay": null,
+  "fogExploredColor": null,
+  "fogUnexploredColor": null,
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659206253273,
+    "modifiedTime": 1659206253273,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "active": false,
+  "folder": null,
+  "sort": 0,
+  "_key": "!scenes!bcrtV55Yoef8MDVk"
+}

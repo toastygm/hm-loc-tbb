@@ -1,0 +1,184 @@
+{
+  "name": "Tomb",
+  "pages": [
+    {
+      "name": "[T1] Sealed Entrance",
+      "type": "text",
+      "text": {
+        "content": "<p>The hillside entrance to the barrow is covered over with earth and grass and has lain undetected for centuries.</p>",
+        "format": 1
+      },
+      "_id": "a5M4PGzG8OyS7ieh",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!xLAtG5VR9FKbFp8U.a5M4PGzG8OyS7ieh"
+    },
+    {
+      "name": "[T2] Passage",
+      "type": "text",
+      "text": {
+        "content": "<p>A long, gently sloping tunnel descends to the barrow’s main chamber. The floor is painted with a serpent design, while the walls depict scenes from the lives of the tomb’s occupants, three warrior brothers. PCs with Folklore skill may be able to glean clues to their identities. If the restless spirits of any of the Three Brothers linger in the tomb, the paintings may provide helpful guidance in dealing with them.</p>",
+        "format": 1
+      },
+      "_id": "bAwBsyaoOyu5YiQl",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!xLAtG5VR9FKbFp8U.bAwBsyaoOyu5YiQl"
+    },
+    {
+      "name": "[T3] Main Chamber",
+      "type": "text",
+      "text": {
+        "content": "<p>The main chamber of the barrow is square, with a wide alcove on each wall featuring an opening to a side burial chamber. Four stout pine logs support the 12-foot peaked stone ceiling. With the passage of time, the pine resin oozing from the logs has left a residue around their bases and a powerful odor of turpentine. The floor of the chamber is painted in a detailed spiral with four smaller spirals around each of the columns. Within the spiral design are various renderings of men and beasts, all traveling towards the center where a serpent encircles Nolomar, the sun. The walls are decorated with stylized scenes of woodland, rivers, and mountains, while the ceiling is adorned with a pattern of stars around a light-colored disk that probably represents Yael, the moon. A brass brazier stands before each of the side chambers, still filled with ancient unlit charcoal and aromatic herbs.</p>\n<p>The braziers in the main chamber can be lit without much trouble, but doing so without making provision for ventilation may deplete the oxygen in the barrow and fill it with the smoke of aromatic herbs, including Fletharasha (see Herblore 11 and Potions 12). A well-concealed compartment in the floor can be opened by those who are aware of it (see @UUID[JournalEntry.1fTiAKpdbva89nnX.JournalEntryPage.b3Gle07yEim9Q7GZ]{Note on the Alignment of the Tomb}).</p>\n<h2>Burial Chambers</h2>\n<p>Three side chambers are accessible from the main chamber. Each is a step below the level of the main chamber and has a low ceiling supported by heavy pine crossbeams. The walls of each are carved and painted with swirling Jarin designs and depictions of fanciful beasts. The chambers contain a bier for the deceased and an assortment of grave goods. Bowls, jars, and other containers once held food and drink that is now dust and residue. The tattered remnants of once- fine clothing, as well as carpet or tapestry, speak to the wealth and importance of those interred here.</p>\n<p>Ornate spears, shields, and other weapons, intact but brittle with age, are arrayed around the chambers and on the biers.</p>\n<ul>\n<li>@UUID[JournalEntry.xLAtG5VR9FKbFp8U.JournalEntryPage.2DDLqYaSHwYq8TCB]{[T4a] Wealthy Warrior}</li>\n<li>@UUID[JournalEntry.xLAtG5VR9FKbFp8U.JournalEntryPage.TCborCfG3SzWPL9n]{[T4b] The Skull}</li>\n<li>@UUID[JournalEntry.xLAtG5VR9FKbFp8U.JournalEntryPage.4wmLzcr2zyZRseXm]{[T4c] Collapsed Tomb}</li>\n</ul>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "xsXg6fMseuXBxGEa",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!xLAtG5VR9FKbFp8U.xsXg6fMseuXBxGEa"
+    },
+    {
+      "name": "[T4a] Wealthy Warrior",
+      "type": "text",
+      "text": {
+        "content": "<p>This tomb holds the remains of a wealthy Jarin warrior. A silver brooch (10 oz. with gold inlay in the form of a stag’s head) rests on the skeletal chest of the dead warrior.</p>",
+        "format": 1
+      },
+      "_id": "2DDLqYaSHwYq8TCB",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!xLAtG5VR9FKbFp8U.2DDLqYaSHwYq8TCB"
+    },
+    {
+      "name": "[T4b] The Skull",
+      "type": "text",
+      "text": {
+        "content": "<p>A skull is all that remains of what must have been a very important warrior. A golden torc (10 oz.) rests on the bier alongside the skull and a few weapons.</p>\n<p>PCs with Folklore may know that when Owain the Martyr (see Tontury Lake 2) was betrayed and murdered by Ceorlan, the Prince of Arwn, Owain’s golden torc was taken by one of Ceorlan’s men. According to the legend, the torc is cursed and great misfortune will befall any who possess it unless they are the rightful ruler of Darlen. Although there is no conclusive evidence that there ever was an actual torc, most Kaldorans believe it exists. The tale is popular and is periodically updated; it seems the torc has been changing hands for centuries, trying to find its way back to its rightful owner.</p>\n<p>If the skull is truly that of Owain the Martyr, are the PCs willing to risk the curse to obtain the priceless artifact?</p>",
+        "format": 1
+      },
+      "_id": "TCborCfG3SzWPL9n",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!xLAtG5VR9FKbFp8U.TCborCfG3SzWPL9n"
+    },
+    {
+      "name": "[T4c] Collapsed Tomb",
+      "type": "text",
+      "text": {
+        "content": "<p>This tomb has partially collapsed into the upper reaches of Murrie’s Cave, allowing access to that area. The bier, along with the remains and items resting on it, has fallen through into the caves.</p>",
+        "format": 1
+      },
+      "_id": "4wmLzcr2zyZRseXm",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!xLAtG5VR9FKbFp8U.4wmLzcr2zyZRseXm"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659206231068,
+    "modifiedTime": 1659206231068,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "xLAtG5VR9FKbFp8U",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!xLAtG5VR9FKbFp8U"
+}

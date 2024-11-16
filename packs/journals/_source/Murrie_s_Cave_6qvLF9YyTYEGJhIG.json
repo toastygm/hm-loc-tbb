@@ -1,0 +1,157 @@
+{
+  "name": "Murrie's Cave",
+  "pages": [
+    {
+      "name": "[C1] Cave Entrance",
+      "type": "text",
+      "text": {
+        "content": "<p>Recent heavy rains have caused a small sinkhole to open, allowing access to the cave from the surface. The sinkhole is irregular in shape, approximately six feet by three, and very unstable. Attempts to climb in or out are penalized by the instability as well as the wet, muddy conditions. The sinkhole descends fourteen feet before opening into the cavern below. Directly beneath the opening is a mass of flowstone, sloping down to the underground stream that fills the cavern to an average depth of two feet. Rubble from the sinkhole litters the bottom of the slope, along with a dead sheep. A shepherd’s crook can be found partly covered by the debris.</p>",
+        "format": 1
+      },
+      "_id": "CEir8lZlfkZkgEnW",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!6qvLF9YyTYEGJhIG.CEir8lZlfkZkgEnW"
+    },
+    {
+      "name": "[C2] Pool",
+      "type": "text",
+      "text": {
+        "content": "<p>Downstream of the entrance, the water forms a small pool before flowing out through a submerged passage. Murrie will be found here, either unconscious or dead (GM discretion). Regardless of his status when the PCs discover him, it’s clear that he was badly injured by the fall: he has a broken leg and several cracked ribs, as well as numerous cuts, scrapes, and bruises. If he is still alive, he will be incapable of providing much assistance to the PCs.</p>",
+        "format": 1
+      },
+      "_id": "Q06hZu0XBw8JJZ0V",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!6qvLF9YyTYEGJhIG.Q06hZu0XBw8JJZ0V"
+    },
+    {
+      "name": "[C3] The Stream",
+      "type": "text",
+      "text": {
+        "content": "<p>Upstream of the entrance, a small (one foot) waterfall marks the point where the stream enters the cavern. PCs who stand near the opening may detect the odor of turpentine (pine resin), a curious smell to encounter within a cave. Following the stream requires transiting a cramped section of tunnel with only four feet of headroom. However, it soon opens up, offering explorers the option of either following the stream further (it will eventually become impassible), or climbing up onto a 4’ tall ledge. This area is home to an aquatic Ivashu (see @UUID[JournalEntry.1fTiAKpdbva89nnX.JournalEntryPage.FWqPeEgamd6UXNde]{Baethyr: The Mind Flayer}), which will avoid a large group, but might try to pick off lone explorers.</p>",
+        "format": 1
+      },
+      "_id": "AR38fjOKw5wf6yeC",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!6qvLF9YyTYEGJhIG.AR38fjOKw5wf6yeC"
+    },
+    {
+      "name": "[C4] Debris",
+      "type": "text",
+      "text": {
+        "content": "<p>The passage rises along a series of step-like ledges. At this point, a mass of debris is scattered around the base of a steep slope. Mixed with the rubble are human remains and various artifacts that may be identifiable as grave goods, such as broken pottery, a few weapons, and animal bones. While much of this is far beyond use, the GM can include one or more items of value or interest, if desired. The odor of turpentine is stronger here, and the artifacts have clearly been deposited here after sliding down the slope.</p>",
+        "format": 1
+      },
+      "_id": "9ckMQT3BPJVbfTHH",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!6qvLF9YyTYEGJhIG.9ckMQT3BPJVbfTHH"
+    },
+    {
+      "name": "[C5] Tomb Collapse",
+      "type": "text",
+      "text": {
+        "content": "<p>At the top of the slope, a section of the tunnel ceiling has collapsed, revealing an opening that is low enough to be easily accessed. This is how the PCs will be able to enter the Three Brothers Barrow.</p>",
+        "format": 1
+      },
+      "_id": "W1X1FP52MtLZ3n0m",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!6qvLF9YyTYEGJhIG.W1X1FP52MtLZ3n0m"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659206231064,
+    "modifiedTime": 1659206231064,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "6qvLF9YyTYEGJhIG",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!6qvLF9YyTYEGJhIG"
+}
