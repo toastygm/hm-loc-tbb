@@ -2,20 +2,17 @@
   "id": "hm-loc-tbb",
   "title": "Three Brothers Barrow",
   "description": "A ready-made Jarin barrow tomb for heroes to explore",
-  "version": "1.2.1",
-  "bugs": "https://github.com/toastygm/hm-loc-tbb/issues",
   "license": "LICENSE",
   "readme": "README.md",
   "authors": [
     {
       "name": "Toasty",
-      "discord": "toasty#8538",
-      "flags": {}
+      "discord": "toasty#8538"
     }
   ],
   "compatibility": {
-    "minimum": "11",
-    "verified": "12.331"
+    "minimum": "12",
+    "verified": "14"
   },
   "scripts": [
     "scripts/init.js"
@@ -25,8 +22,7 @@
       {
         "id": "scene-packer",
         "type": "module",
-        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
-        "compatibility": {}
+        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json"
       }
     ]
   },
@@ -35,51 +31,49 @@
       "name": "Three Brothers Barrow",
       "sorting": "m",
       "packs": [
-        "actors",
+        "actors-hm3",
         "scenes",
         "journals"
-      ]
+      ],
+      "color": "#6e0a8c"
     }
   ],
   "packs": [
     {
       "label": "Actors",
-      "name": "actors",
-      "path": "packs/actors",
-      "system": "hm3",
+      "name": "actors-hm3",
+      "path": "packs/actors-hm3",
       "type": "Actor",
-      "flags": {},
+      "system": "hm3",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "color": "#e6180a"
     },
     {
       "label": "Scenes",
       "name": "scenes",
       "path": "packs/scenes",
       "type": "Scene",
-      "flags": {},
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "color": "#1a8c0a"
     },
     {
       "label": "Journals",
       "name": "journals",
       "path": "packs/journals",
       "type": "JournalEntry",
-      "flags": {},
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "color": "#0a47e6"
     }
   ],
-  "url": "https://github.com/toastygm/hm-loc-tbb/",
-  "manifest": "https://github.com/toastygm/hm-loc-tbb/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/hm-loc-tbb/releases/download/v1.2.1/module.zip",
   "flags": {
     "allowBugReporter": true
   }
